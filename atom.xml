@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tianhuipt.com</id>
     <title>Hui Tian&apos;s blog</title>
-    <updated>2020-10-15T13:42:05.983Z</updated>
+    <updated>2020-10-15T13:45:23.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tianhuipt.com"/>
     <link rel="self" href="https://tianhuipt.com/atom.xml"/>
@@ -15,14 +15,13 @@
         <id>https://tianhuipt.com/post/hello-gridea/</id>
         <link href="https://tianhuipt.com/post/hello-gridea/">
         </link>
-        <updated>2018-12-11T18:00:00.000Z</updated>
+        <updated>2018-12-11T20:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>👏  Summary Statement<br>
-Hui Tian graudated from West China Medical School with a bachelor degree of Physical Therapy.  Out of interest in research, she continued her further study in Hiroshima university.  During her master period, she focused on identifying risk factors of specific disease or outcome of musculoskeletal system, such as osteoarthritis and fall. Furthermore, she developed clinical prediction rule as well as physical performance measurement tools to assess <!-- more -->these diseases and outcomes .<br>
+Hui Tian graudated from West China Medical School with a bachelor degree of Physical Therapy.  Out of interest in research, she continued her further study in Hiroshima university.  During her master period, she focused on identifying risk factors of specific disease or outcome of musculoskeletal system, such as osteoarthritis and fall. Furthermore, she developed clinical prediction rule as well as physical performance measurement tools to assess these diseases and outcomes . <!-- more --><br>
 You can find her name from laboratory homepage link below<br>
 <a href="https://ryotanalab.jimdofree.com/">Laboratory Homepage</a><br>
 <a href="http://www.wchscu.cn/Home.html">West Chian Medical School</a><br>
 <a href="https://www.hiroshima-u.ac.jp/en">Hiroshima University</a></p>
-<h2 id="特性">特性👇</h2>
 ]]></content>
     </entry>
 </feed>
